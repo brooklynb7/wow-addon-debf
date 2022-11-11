@@ -1,0 +1,5 @@
+﻿## Interface: 100000
+## Title: CommonFn
+## Notes: 通用函数库
+
+embeds.xml
